@@ -1,0 +1,15 @@
+.middle{
+	margin:0px auto;
+	padding: 0px;
+}
+.min_height{
+	min-height: 150px;
+	border: 1px solid #eee;
+	overflow-x: auto;
+}
+.margin-top{
+	margin-top:10%;
+}
+.formcontrol{
+	width:100%;
+}
